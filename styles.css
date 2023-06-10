@@ -21,6 +21,8 @@ form {
     max-width: 600px;
     min-width: 300px;
     width: 60vw;
+    padding-bottom: 2em;
+
 }
 
 fieldset {
