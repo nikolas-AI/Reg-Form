@@ -6,3 +6,8 @@ body {
     color: #f5f6f7;
     
 }
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
